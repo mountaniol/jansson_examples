@@ -2,7 +2,7 @@
 
 This is a set of examples demonstrating how to use jansson library.
 The manual of jansson library is here:
-https://jansson.readthedocs.io/en/2.11/gettingstarted.html
+https://jansson.readthedocs.io/en/2.13/
 
 ## List of examples
 
